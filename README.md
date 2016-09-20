@@ -8,9 +8,15 @@ Project 5 starts a local webserver in which one can enter a function (in the for
 Some sample input/output:
 
 Function:                (* 2 x)
+
 Variable:                x
+
 N:                       1
+
 Point:                   1
+
 Simplify:                off
+
 Nth Symbolic Derivative: (lambda (x) (+ (* 0 x) (* 1 2)))
+
 Nth Numeric Derivative:  2
